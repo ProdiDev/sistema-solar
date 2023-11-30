@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1701310006 source:/home/matheusc/Desktop/opengl-project/SistemaSolar/main.cpp
+	"sistema.h"
+
+1701310016 /home/matheusc/Desktop/opengl-project/SistemaSolar/sistema.h
+	<GL/freeglut.h>
+	<GLFW/glfw3.h>
+	<cmath>
+	<algorithm>
+	<cstring>
+	<string>
+	<iostream>
+	<fstream>
+
+1701310025 source:/home/matheusc/Desktop/opengl-project/SistemaSolar/sistema.cpp
+	"sistema.h"
+
